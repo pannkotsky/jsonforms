@@ -1,0 +1,9 @@
+appdirs==1.4.0
+Django==1.10.5
+django-appconf==1.0.2
+django-crispy-forms==1.6.1
+django-jsonfield==1.0.1
+django-select2-forms==1.1.28
+packaging==16.8
+pyparsing==2.1.10
+six==1.10.0
